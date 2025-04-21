@@ -1,0 +1,75 @@
+{
+  "title": "Data Analysis",
+  "steps": [
+    {
+      "title": "Excel",
+      "description": "Learn the basics of Excel for data manipulation and analysis.",
+      "links": [
+        {
+          "title": "Excel for Beginners",
+          "url": "https://youtu.be/_g5roKHj95o?si=tPCEbgmJNaWeyt_E"
+        },
+        {
+          "title": "Advanced Excel Techniques",
+          "url": "https://youtu.be/m2C_-6PW6WE?si=Cx-r4RZ1XTvbssfE"
+        }
+      ]
+    },
+    {
+      "title": "SQL",
+      "description": "Understand how to query databases using SQL.",
+      "links": [
+        {
+          "title": "SQL Tutorial",
+          "url": "https://youtu.be/h0nxCDiD-zg?si=x2xRwXGsLxLP5UPp"
+        },
+        {
+          "title": "Advanced SQL Queries",
+          "url": "https://youtu.be/Ejxam_CBY9U?si=BRdMBNZwWx-2MX6E"
+        }
+      ]
+    },
+    {
+      "title": "Python for Data Analysis",
+      "description": "Learn Python libraries like Pandas and NumPy for data analysis.",
+      "links": [
+        {
+          "title": "Python Pandas Tutorial",
+          "url": "https://youtu.be/2uvysYbKdjM?si=knHh1Zcxn7th9aDn"
+        },
+        {
+          "title": "NumPy Basics",
+          "url": "https://youtu.be/xECXZ3tyONo?si=f1EnqzyM7OYs4Gx1"
+        }
+      ]
+    },
+    {
+      "title": "Data Visualization",
+      "description": "Master data visualization tools like Matplotlib and Seaborn.",
+      "links": [
+        {
+          "title": "Matplotlib Tutorial",
+          "url": "https://youtu.be/yZTBMMdPOww?si=MF8eEgzZsQDWTovk"
+        },
+        {
+          "title": "Seaborn Tutorial",
+          "url": "https://youtu.be/6GUZXDef2U0?si=EawQUIsl1x7G9Lqg"
+        }
+      ]
+    },
+    {
+      "title": "Machine Learning Basics",
+      "description": "Get introduced to machine learning concepts and algorithms.",
+      "links": [
+        {
+          "title": "Machine Learning Crash Course",
+          "url": "https://youtu.be/z-EtmaFJieY?si=HVOuQ_bO0GahOWLi"
+        },
+        {
+          "title": "Supervised vs Unsupervised Learning",
+          "url": "https://youtu.be/W01tIRP_Rqs?si=W_vvlB5xQk6P2AJr"
+        }
+      ]
+    }
+  ]
+}
