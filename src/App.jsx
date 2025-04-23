@@ -17,7 +17,7 @@ function App() {
             <Routes>
               <Route path="/dashboard" element={<YoutubeVideos />} />
               <Route path="/learning-path" element={<LearningPath />} />
-              {/* <Route path="/explore" element={<Explore />} /> */}
+              <Route path="/explore" element={<Explore />} />
               <Route path="/" element={<Navigate to="/dashboard" replace />} />
             </Routes>
           </main>

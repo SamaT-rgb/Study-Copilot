@@ -24,6 +24,7 @@ export const YoutubeVideos = (): JSX.Element => {
   const [books, setBooks] = useState<Book[]>(fallbackBooksData);
   const [loading, setLoading] = useState<boolean>(true);
   const [news, setNews] = useState<News[]>([]);
+  console.log(news);
 
   useEffect(() => {
     const fetchData = async () => {
@@ -81,12 +82,12 @@ export const YoutubeVideos = (): JSX.Element => {
                   >
                     Books
                   </TabsTrigger>
-                  {/* <TabsTrigger
+                  <TabsTrigger
                     value="news"
                     className="inline-flex items-center justify-center pt-2 pb-3 px-4 data-[state=active]:border-b-2 data-[state=active]:border-[#1c40ca] data-[state=active]:text-[#1c40ca] data-[state=active]:font-semibold rounded-none bg-transparent [font-family:'Source_Sans_Pro',Helvetica] text-[13px]"
                   >
                     News
-                  </TabsTrigger> */}
+                  </TabsTrigger>
                 </TabsList>
                 <TabsContent value="youtube" className="mt-4 p-0 overflow-y-auto max-h-[600px]">
                   {loading ? (

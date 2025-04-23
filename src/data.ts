@@ -105,7 +105,7 @@ export interface Video {
         summary: book.summary || "",
       })) || [];
 
-      const newsData: News[] = data.news?.map((newsItem: any, index: number) => ({
+      const newsData: News[] = data.articles_and_books.news?.map((newsItem: any, index: number) => ({
         id: index.toString(),
         title: newsItem.title || "",
         description: newsItem.description || "",
@@ -115,7 +115,7 @@ export interface Video {
         url: newsItem.url || "#",
         summary: newsItem.summary || "",
       })) || [];
-  
+      console.log("Data: ", data);
       return { videoData, articlesData, booksData, newsData };
     } catch (error) {
       console.error("Error loading data:", error);

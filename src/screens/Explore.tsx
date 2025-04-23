@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { ChevronRight, Search } from "lucide-react";
 import { Input } from "../components/ui/input";
-import exploreData from "../../data/explore.json";
+import exploreData from "../data/Roadmap.json";
 
 // Removed unused import for roadmapData
 
@@ -58,7 +58,8 @@ export const Explore = (): JSX.Element => {
     const fetchData = async () => {
       try {
         // Replace with the actual path to your explore.json file
-        const response = await fetch("../data/explore.json");
+        const response = await fetch("/explore.json");
+        // console.log("Response: ", await response.json());
         const jsonData = await response.json();
         setData(jsonData);
       } catch (error) {
@@ -112,7 +113,8 @@ export const Explore = (): JSX.Element => {
   }
 
   return (
-    <div className="flex flex-col w-full p-6">
+    // h-[879px] top-[92px] left-[240px]
+    <div className="flex flex-col w-full p-6 ml-[240px] mt-[92px] pr-[100px] gap-4 w-full overflow-y-auto max-h-[800px]">
       <h1 className="text-2xl font-semibold mb-6">Explore</h1>
       
       {/* Search bar */}
@@ -134,12 +136,12 @@ export const Explore = (): JSX.Element => {
             </a>
           </div>
           
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="flex overflow-x-auto gap-4">
             {data.youtube_videos.map((video, index) => (
-              <div key={index} className="flex flex-col">
+              <div key={index} className="flex-shrink-0 w-[280px]">
                 <a href={video.url} target="_blank" rel="noopener noreferrer">
                   <img 
-                    src="/api/placeholder/400/250" 
+                    src={video.thumbnail} 
                     alt={video.title} 
                     className="w-full h-48 object-cover rounded-md mb-2"
                   />
@@ -157,6 +159,31 @@ export const Explore = (): JSX.Element => {
               </div>
             ))}
           </div>
+
+          {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {data.youtube_videos.map((video, index) => (
+              <div key={index} className="flex flex-col">
+                <a href={video.url} target="_blank" rel="noopener noreferrer">
+                  <img 
+                    src={video.thumbnail} 
+                    alt={video.title} 
+                    className="w-full h-48 object-cover rounded-md mb-2"
+                  />
+                </a>
+                <h3 className="font-medium text-base">{video.title}</h3>
+                <div className="text-sm text-gray-600 flex flex-wrap gap-x-2">
+                  <span>{video.channel}</span>
+                  <span>•</span>
+                  <span>{formatViews(video.views)}</span>
+                  <span>•</span>
+                  <span>{formatPublishedDate(video.published_at)}</span>
+                  <span>•</span>
+                  <span>{video.likes} likes</span>
+                </div>
+              </div>
+            ))}
+          </div> */}
+
         </div>
       )}
       
@@ -169,14 +196,41 @@ export const Explore = (): JSX.Element => {
               See more <ChevronRight className="h-4 w-4 ml-1" />
             </a>
           </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+
+          <div className="flex overflow-x-auto gap-6">
+            {data.books.map((book, index) => (
+              <div key={index} className="flex-shrink-0 w-[180px] flex flex-col items-center">
+                <div className="relative mb-2">
+                  <a href={book.info_link} target="_blank" rel="noopener noreferrer">
+                    <img 
+                      src={book.thumbnail} 
+                      alt={book.title} 
+                      className="w-40 h-56 object-cover"
+                    />
+                  </a>
+                  {index === 0 && (
+                    <div className="absolute top-0 right-0 bg-yellow-400 text-xs font-bold py-1 px-2 rotate-12">
+                      NEW
+                    </div>
+                  )}
+                </div>
+                <h3 className="font-medium text-center">{book.title}</h3>
+                <div className="text-sm text-gray-600 text-center">
+                  {/* Author: {book.authors.join(", ")} */}
+                  Author: {book.authors[0]}
+                </div>
+              </div>
+            ))}
+          </div>
+
+          {/* Uncomment this section if you want to use a grid layout instead of flex */}  
+          {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {data.books.map((book, index) => (
               <div key={index} className="flex flex-col items-center">
                 <div className="relative mb-2">
                   <a href={book.info_link} target="_blank" rel="noopener noreferrer">
                     <img 
-                      src="/api/placeholder/180/240" 
+                      src={book.thumbnail} 
                       alt={book.title} 
                       className="w-40 h-56 object-cover"
                     />
@@ -193,7 +247,7 @@ export const Explore = (): JSX.Element => {
                 </div>
               </div>
             ))}
-          </div>
+          </div> */}
         </div>
       )}
       

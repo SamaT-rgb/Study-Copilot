@@ -1,0 +1,238 @@
+{
+    "query": "data analysis",
+    "youtube_videos": [
+        {
+            "title": "The Complete Data Analyst Roadmap",
+            "description": "Go from zero to a data analyst in 8-16 months. This step-by-step roadmap covers the essential skills you must learn to become a ...",
+            "channel": "Programming with Mosh",
+            "channel_url": "https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA",
+            "published_at": "2024-08-06T13:00:37Z",
+            "days_since_published": 253,
+            "thumbnail": "https://i.ytimg.com/vi/YRJbhFLLPyE/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=YRJbhFLLPyE",
+            "views": "329156",
+            "likes": "9990"
+        },
+        {
+            "title": "What Is Data Analytics? - An Introduction (Full Guide)",
+            "description": "Curious about a career in Data Analytics? Book a call with a program advisor: https://bit.ly/47LEBk3 What exactly is data analytics ...",
+            "channel": "CareerFoundry",
+            "channel_url": "https://www.youtube.com/channel/UCzAF54cHk1ZO82af-8E3qOQ",
+            "published_at": "2021-03-25T13:13:45Z",
+            "days_since_published": 1483,
+            "thumbnail": "https://i.ytimg.com/vi/yZvFH7B6gKI/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=yZvFH7B6gKI",
+            "views": "1654387",
+            "likes": "40215"
+        },
+        {
+            "title": "Master Data Analysis on Excel in Just 10 Minutes",
+            "description": "AD: Sign up to enroll for a 7-day free trial with Coursera now!",
+            "channel": "Kenji Explains",
+            "channel_url": "https://www.youtube.com/channel/UCkHdBeQ4DuvBXTahMYZVlMA",
+            "published_at": "2023-02-26T18:45:01Z",
+            "days_since_published": 780,
+            "thumbnail": "https://i.ytimg.com/vi/_g5roKHj95o/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=_g5roKHj95o",
+            "views": "2584123",
+            "likes": "54830"
+        },
+        {
+            "title": "Data Analytics vs Data Science",
+            "description": "Explore analytics tools and solutions \u2192 https://ibm.biz/BdSPGc Are you interested in data science? And have you heard of data ...",
+            "channel": "IBM Technology",
+            "channel_url": "https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ",
+            "published_at": "2023-11-08T12:00:38Z",
+            "days_since_published": 525,
+            "thumbnail": "https://i.ytimg.com/vi/dcXqhMqhZUo/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=dcXqhMqhZUo",
+            "views": "638625",
+            "likes": "13093"
+        },
+        {
+            "title": "Analyzing data as a business analyst in tech",
+            "description": "",
+            "channel": "Lillian Chiu",
+            "channel_url": "https://www.youtube.com/channel/UC_LTk4kwxHI0Tj0568u7cxg",
+            "published_at": "2024-10-24T22:35:37Z",
+            "days_since_published": 174,
+            "thumbnail": "https://i.ytimg.com/vi/8chbARSxT2o/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=8chbARSxT2o",
+            "views": "85548",
+            "likes": "4932"
+        },
+        {
+            "title": "A Beginners Guide To The Data Analysis Process",
+            "description": "Curious about a career in Data Analytics? Book a call with a program advisor: https://bit.ly/47LEBk3 What is the data analysis ...",
+            "channel": "CareerFoundry",
+            "channel_url": "https://www.youtube.com/channel/UCzAF54cHk1ZO82af-8E3qOQ",
+            "published_at": "2021-09-30T10:00:32Z",
+            "days_since_published": 1295,
+            "thumbnail": "https://i.ytimg.com/vi/lgCNTuLBMK4/hqdefault.jpg",
+            "url": "https://www.youtube.com/watch?v=lgCNTuLBMK4",
+            "views": "826976",
+            "likes": "15179"
+        }
+    ],
+    "books": [
+        {
+            "title": "Essentials of Data Analysis",
+            "authors": [
+                "Agasti Khatri"
+            ],
+            "description": "\"Essentials of Data Analysis\" is an indispensable guide that navigates readers through the world of data-driven decision-making. This book presents essential concepts, techniques, and tools in an accessible and user-friendly manner. It serves as a trusted companion for both beginners and professionals in their data analysis journey. We start by laying a solid foundation in data analysis principles, providing a comprehensive understanding of key concepts and methodologies. The book delves into practical techniques for data manipulation, visualization, and exploration, equipping readers with the skills to extract actionable insights from raw data. Real-world examples, case studies, and hands-on exercises bring abstract concepts to life. We emphasize the ethical and responsible use of data, guiding readers through ethical considerations, privacy concerns, and regulatory requirements. This fosters a culture of ethical awareness and accountability. Additionally, we explore emerging trends and technologies shaping the future of data analysis, such as artificial intelligence, machine learning, augmented analytics, and edge computing. By adopting innovative techniques, readers can drive meaningful change within their organizations. \"Essentials of Data Analysis\" is a valuable resource for enhancing analytical skills, advancing careers, and understanding the role of data in decision-making.",
+            "info_link": "https://play.google.com/store/books/details?id=U5lIEQAAQBAJ&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=U5lIEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Data Analysis and Related Applications, Volume 1",
+            "authors": [
+                "Konstantinos N. Zafeiris",
+                "Christos H. Skiadas",
+                "Yiannis Dimotikalis",
+                "Alex Karagrigoriou",
+                "Christiana Karagrigoriou-Vonta"
+            ],
+            "description": "The scientific field of data analysis is constantly expanding due to the rapid growth of the computer industry and the wide applicability of computational and algorithmic techniques, in conjunction with new advances in statistical, stochastic and analytic tools. There is a constant need for new, high-quality publications to cover the recent advances in all fields of science and engineering. This book is a collective work by a number of leading scientists, computer experts, analysts, engineers, mathematicians, probabilists and statisticians who have been working at the forefront of data analysis and related applications. The chapters of this collaborative work represent a cross-section of current concerns, developments and research interests in the above scientific areas. The collected material has been divided into appropriate sections to provide the reader with both theoretical and applied information on data analysis methods, models and techniques, along with related applications.",
+            "info_link": "http://books.google.com.tw/books?id=pQ2MEAAAQBAJ&dq=data+analysis&hl=&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=pQ2MEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Decoding Data: A Comprehensive Guide to Data Analysis",
+            "authors": [
+                "Md Fardaous Ahmed"
+            ],
+            "description": "Unlock the power of data with \"Decoding Data,\" the ultimate guide for anyone looking to master the art and science of data analysis. Whether you're a seasoned analyst, a business professional, or a curious newcomer, this book will equip you with the skills and knowledge needed to navigate the vast landscape of data in today's digital age. Explore the essentials of data collection and management, dive deep into data cleaning and preprocessing techniques, and discover the transformative potential of exploratory data analysis. From the fundamentals of statistical analysis and hypothesis testing to the cutting-edge applications of machine learning, \"Decoding Data\" covers it all. Learn advanced data analysis techniques, including time series analysis, text mining, and big data analytics. Understand how to interpret and communicate your findings effectively, ensuring that your data-driven insights lead to impactful decision-making. Each chapter is packed with practical examples, real-world case studies, and hands-on tools to guide you every step of the way. \"Decoding Data\" is more than just a textbook\u2014it's a comprehensive resource designed to make data analysis accessible, engaging, and above all, actionable. Transform your approach to data and unlock new opportunities for innovation and growth with this indispensable guide. Join the ranks of data-savvy professionals and let \"Decoding Data\" be your companion on the journey to mastering data analysis. Your future in data starts here.",
+            "info_link": "http://books.google.com.tw/books?id=mvIMEQAAQBAJ&dq=data+analysis&hl=&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=mvIMEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Statistical Techniques for Data Analysis",
+            "authors": [
+                "John K. Taylor",
+                "Cheryl Cihon"
+            ],
+            "description": "Since the first edition of this book appeared, computers have come to the aid of modern experimenters and data analysts, bringing with them data analysis techniques that were once beyond the calculational reach of even professional statisticians. Today, scientists in every field have access to the techniques and technology they need to analyze stat",
+            "info_link": "http://books.google.com.tw/books?id=yw6JwuAclCUC&dq=data+analysis&hl=&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=yw6JwuAclCUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Data Science and Big Data Analytics- Principles, Techniques, and Applications",
+            "authors": [
+                "Dr. Dhananjaya Reddy",
+                "Dr. Tisha Meriam Cherian",
+                "Dr. Vidyanand Mishra",
+                "Mudita Sharma"
+            ],
+            "description": "\u201cData Science and Big Data Analytics: Principles, Techniques, and Applications\u201d is designed to provide a comprehensive introduction to the rapidly growing fields of data science and big data analytics. The book offers a balanced approach to both theoretical concepts and practical knowledge, making it ideal for learners at various levels\u2014ranging from beginners to those seeking advanced understanding. By exploring topics such as data collection, preprocessing, machine learning, and big data technologies, the book lays the groundwork for understanding how large-scale data is managed and utilized in real-world applications. Without including case studies or examples, the text emphasizes key concepts, tools, and methodologies. The book also addresses ethical considerations and future trends in data science, making it a well-rounded resource for students, educators, and professionals aiming to grasp the essentials of the field.",
+            "info_link": "http://books.google.com.tw/books?id=-skzEQAAQBAJ&dq=data+analysis&hl=&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=-skzEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        {
+            "title": "Advances in Intelligent Data Analysis. Reasoning about Data",
+            "authors": [
+                "Xiaohui Liu",
+                "Paul Cohen",
+                "Michael R. Berthold"
+            ],
+            "description": "This book constitutes the refereed proceedings of the Second International Symposium on Intelligent Data Analysis, IDA-97, held in London, UK, in August 1997. The volume presents 50 revised full papers selected from a total of 107 submissions. Also included is a keynote, Intelligent Data Analysis: Issues and Opportunities, by David J. Hand. The papers are organized in sections on exploratory data analysis, preprocessing and tools; classification and feature selection; medical applications; soft computing; knowledge discovery and data mining; estimation and clustering; data quality; qualitative models.",
+            "info_link": "https://play.google.com/store/books/details?id=sX5rCQAAQBAJ&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=sX5rCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        }
+    ],
+    "articles": [
+        {
+            "title": "Geometric Data Analysis, From Correspondence Analysis to Structured Data\n  Analysis (book review)",
+            "summary": "Review of: Brigitte Le Roux and Henry Rouanet, Geometric Data Analysis, From\nCorrespondence Analysis to Structured Data Analysis, Kluwer, Dordrecht, 2004,\nxi+475 pp.",
+            "authors": [
+                "Fionn Murtagh"
+            ],
+            "link": "http://arxiv.org/abs/0804.1244v1"
+        },
+        {
+            "title": "Functional Data Analysis on Wearable Sensor Data: A Systematic Review",
+            "summary": "Wearable devices and sensors have recently become a popular way to collect\ndata, especially in the health sciences. The use of sensors allows patients to\nbe monitored over a period of time with a high observation frequency. Due to\nthe continuous-on-time structure of the data, novel statistical methods are\nrecommended for the analysis of sensor data. One of the popular approaches in\nthe analysis of wearable sensor data is functional data analysis. The main\nobjective of this paper is to review functional data analysis methods applied\nto wearable device data according to the type of sensor. In addition, we\nintroduce several freely available software packages and open databases of\nwearable device data to facilitate access to sensor data in different fields.",
+            "authors": [
+                "Nihan Acar-Denizli",
+                "Pedro Delicado"
+            ],
+            "link": "http://arxiv.org/abs/2410.11562v1"
+        },
+        {
+            "title": "Evaluating the Success of a Data Analysis",
+            "summary": "A fundamental problem in the practice and teaching of data science is how to\nevaluate the quality of a given data analysis, which is different than the\nevaluation of the science or question underlying the data analysis. Previously,\nwe defined a set of principles for describing data analyses that can be used to\ncreate a data analysis and to characterize the variation between data analyses.\nHere, we introduce a metric of quality evaluation that we call the success of a\ndata analysis, which is different than other potential metrics such as\ncompleteness, validity, or honesty. We define a successful data analysis as the\nmatching of principles between the analyst and the audience on which the\nanalysis is developed. In this paper, we propose a statistical model and\ngeneral framework for evaluating the success of a data analysis. We argue that\nthis framework can be used as a guide for practicing data scientists and\nstudents in data science courses for how to build a successful data analysis.",
+            "authors": [
+                "Stephanie C. Hicks",
+                "Roger D. Peng"
+            ],
+            "link": "http://arxiv.org/abs/1904.11907v1"
+        },
+        {
+            "title": "Elements and Principles for Characterizing Variation between Data\n  Analyses",
+            "summary": "The data revolution has led to an increased interest in the practice of data\nanalysis. For a given problem, there can be significant or subtle differences\nin how a data analyst constructs or creates a data analysis, including\ndifferences in the choice of methods, tooling, and workflow. In addition, data\nanalysts can prioritize (or not) certain objective characteristics in a data\nanalysis, leading to differences in the quality or experience of the data\nanalysis, such as an analysis that is more or less reproducible or an analysis\nthat is more or less exhaustive. However, data analysts currently lack a formal\nmechanism to compare and contrast what makes analyses different from each\nother. To address this problem, we introduce a vocabulary to describe and\ncharacterize variation between data analyses. We denote this vocabulary as the\nelements and principles of data analysis, and we use them to describe the\nfundamental concepts for the practice and teaching of creating a data analysis.\nThis leads to two insights: it suggests a formal mechanism to evaluate data\nanalyses based on objective characteristics, and it provides a framework to\nteach students how to build data analyses.",
+            "authors": [
+                "Stephanie C. Hicks",
+                "Roger D. Peng"
+            ],
+            "link": "http://arxiv.org/abs/1903.07639v2"
+        },
+        {
+            "title": "Topological Data Analysis",
+            "summary": "Topological Data Analysis (TDA) can broadly be described as a collection of\ndata analysis methods that find structure in data. This includes: clustering,\nmanifold estimation, nonlinear dimension reduction, mode estimation, ridge\nestimation and persistent homology. This paper reviews some of these methods.",
+            "authors": [
+                "Larry Wasserman"
+            ],
+            "link": "http://arxiv.org/abs/1609.08227v1"
+        },
+        {
+            "title": "Ball mapper: a shape summary for topological data analysis",
+            "summary": "Topological data analysis provides a collection of tools to encapsulate and\nsummarize the shape of data. Currently it is mainly restricted to \\emph{mapper\nalgorithm} and \\emph{persistent homology}. In this paper we introduce new\nmapper--inspired descriptor that can be applied for exploratory data analysis.",
+            "authors": [
+                "Pawe\u0142 D\u0142otko"
+            ],
+            "link": "http://arxiv.org/abs/1901.07410v1"
+        }
+    ],
+    "news": [
+        {
+            "title": "Microsoft adds \u2018deep reasoning\u2019 Copilot AI for research and data analysis",
+            "description": "After Google and OpenAI offered up AI news on Tuesday, Microsoft has followed with announcements of its own, including details of two \u201cdeep reasoning\u201d agents for Microsoft 365 Copilot that it claims are the first of their kind, dubbed Researcher and Analyst, \u2026",
+            "summary": "After Google and OpenAI offered up AI news on Tuesday, Microsoft has followed with announcements of its own, including details of two \u201cdeep reasoning\u201d agents for Microsoft 365 Copilot that it claims are the first of their kind, dubbed Researcher and Analyst, \u2026",
+            "source": "The Verge",
+            "published_at": "2025-03-26T03:04:28Z",
+            "url": "https://www.theverge.com/microsoft/636089/microsoft-365-copilot-reasoning-ai-agents"
+        },
+        {
+            "title": "How a Cup of Tea Laid the Foundations for Modern Statistical Analysis",
+            "description": "Scientific experiments run today are based on research practices that evolved out of a British tea-tasting experiment in the 1920s.",
+            "summary": "Scientific experiments run today are based on research practices that evolved out of a British tea-tasting experiment in the 1920s.",
+            "source": "Wired",
+            "published_at": "2025-03-26T12:00:00Z",
+            "url": "https://www.wired.com/story/how-a-cup-of-tea-laid-the-foundations-for-modern-statistical-analysis-adam-kucharski-proof-book/"
+        },
+        {
+            "title": "Ozempic and Similar Drugs Could Help Ward Off Dementia, Study Suggests",
+            "description": "A new review of clinical trial data finds evidence that GLP-1 drugs can meaningfully reduce dementia risk in people with type 2 diabetes.",
+            "summary": "A new review of clinical trial data finds evidence that GLP-1 drugs can meaningfully reduce dementia risk in people with type 2 diabetes.",
+            "source": "Gizmodo.com",
+            "published_at": "2025-04-08T16:15:08Z",
+            "url": "https://gizmodo.com/ozempic-and-similar-drugs-could-help-ward-off-dementia-study-suggests-2000586412"
+        },
+        {
+            "title": "Hertz Data Breach Included Credit Card, Personal Data: Here's What You Should Know",
+            "description": "The car rental giant said a hacking incident involving a company it works with exposed its customers' personal information.",
+            "summary": "The car rental giant said a hacking incident involving a company it works with exposed its customers' personal information.",
+            "source": "CNET",
+            "published_at": "2025-04-15T13:24:00Z",
+            "url": "https://www.cnet.com/tech/services-and-software/hertz-data-breach-included-credit-card-personal-data-heres-what-you-should-know/"
+        },
+        {
+            "title": "Microsoft announces security AI agents to help overwhelmed humans",
+            "description": "Microsoft launched its AI-powered Security Copilot a year ago to bring a chatbot to the cybersecurity space, and now it\u2019s expanding it with AI agents that are designed to autonomously assist overwhelmed security teams. Microsoft is unveiling six of its own AI\u2026",
+            "summary": "Microsoft launched its AI-powered Security Copilot a year ago to bring a chatbot to the cybersecurity space, and now it\u2019s expanding it with AI agents that are designed to autonomously assist overwhelmed security teams. Microsoft is unveiling six of its own AI\u2026",
+            "source": "The Verge",
+            "published_at": "2025-03-24T15:32:04Z",
+            "url": "https://www.theverge.com/news/634598/microsoft-security-copilot-ai-agents"
+        }
+    ]
+}

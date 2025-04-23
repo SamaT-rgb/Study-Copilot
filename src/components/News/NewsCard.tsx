@@ -7,6 +7,7 @@ interface NewsCardProps {
 
 export const NewsCard: React.FC<NewsCardProps> = ({ news }) => {
   const [showSummary, setShowSummary] = useState(false);
+  console.log("Data: ", news);
 
   return (
     <div className="flex flex-row gap-6 border-b border-gray-200 pb-6 w-full">
