@@ -8,7 +8,7 @@ The following steps require [NodeJS](https://nodejs.org/en/) and [Python](https:
 
 ### Clone the repository:
    ```bash
-   git clone https://github.com/SamaT-rgb/Study-Copilot.git   /SamaT-rgb/Study-Copilot
+   git clone https://github.com/SamaT-rgb/Study-Copilot.git   
    ```
 
 ### Set Up Python Virtual Environment
