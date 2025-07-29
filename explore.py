@@ -137,7 +137,7 @@ def search_news(api_key, query, max_results=6):
 def main():
     # Replace with your actual API keys
     YOUTUBE_API_KEY = 'Your_YT_API_KEY'
-    NEWS_API_KEY = '8a62450c8a4f47b4aa756fd20b63aea4'
+    NEWS_API_KEY = 'YOUR_NEWS_API_KEY'
 
     query = input("Enter a topic to explore: ")
 
